@@ -5,4 +5,4 @@ while cam.isOpened():
     ret, frame = cam.read()
     cv2.imshow('Secret Cam', frame)
 
-    cv2.
+    cv2. 
