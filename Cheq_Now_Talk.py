@@ -70,7 +70,7 @@ def run_alexa():
 
 
     else:
-        talk('Please say the again , I didnt hear you clearly')
+        talk('Please say that again , I didnt hear you clearly')
 
 
 while True:
